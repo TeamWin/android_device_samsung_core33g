@@ -1,0 +1,8 @@
+*.mk~
+*.gitignore~
+*.prop~
+*.c~
+*.cpp~
+*.java~
+*.txt~
+*.sh~
